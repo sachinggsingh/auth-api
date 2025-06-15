@@ -1,0 +1,94 @@
+{"timestamp":"2025-06-15 10:07:45:745","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:07:45:745","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:07:45:745","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:07:46:746","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:07:46:746","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:07:46:746","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:07:47:747","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:22:822","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:23:823","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:08:23:823","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:23:823","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:23:823","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:23:823","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:24:824","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:48:848","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:48:848","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:08:48:848","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:49:849","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:49:849","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:49:849","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:08:50:850","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:11:11:1111","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:11:12:1112","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:11:12:1112","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:11:12:1112","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:11:13:1113","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:11:13:1113","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:11:13:1113","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:14:1214","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:14:1214","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:12:14:1214","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:14:1214","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:15:1215","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:15:1215","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:15:1215","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:21:1221","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:21:1221","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:12:21:1221","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:22:1222","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:22:1222","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:22:1222","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:12:23:1223","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:16:54:1654","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:16:55:1655","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:16:55:1655","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:16:55:1655","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:16:56:1656","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:16:56:1656","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:16:56:1656","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:17:04:174","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:17:05:175","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:17:05:175","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:17:05:175","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:17:05:175","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:17:06:176","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:17:06:176","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:18:11:1811","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:18:11:1811","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:18:11:1811","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:18:11:1811","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:18:12:1812","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:18:12:1812","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:18:12:1812","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:43:56:4356","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:43:57:4357","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 10:43:57:4357","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:43:57:4357","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:43:57:4357","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:43:57:4357","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 10:43:58:4358","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:56:02:562","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:56:02:562","level":"info","message":"Server started","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 14:56:02:562","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:56:02:562","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:56:03:563","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:56:03:563","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:56:04:564","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:59:46:5946","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:59:46:5946","level":"info","message":"Server started at port 5000","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 14:59:46:5946","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:59:47:5947","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:59:47:5947","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:59:47:5947","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:59:48:5948","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 14:59:57:5957","level":"info","message":"Login notification email sent successfully","service":"identity-service","environment":"development","userEmail":"sachingajendrasingh@gmail.com","userName":"Reena Singh"}
+{"timestamp":"2025-06-15 14:59:57:5957","level":"info","message":"User logged in successfully","service":"identity-service","environment":"development","userId":"683ebf632631970c07ceb510","email":"sachingajendrasingh@gmail.com"}
+{"timestamp":"2025-06-15 15:00:15:015","level":"warn","message":"Auth rate limit exceeded","service":"identity-service","environment":"development","ip":"::1","path":"/refresh","method":"POST","email":"sachingajendrasingh@gmail.com"}
+{"timestamp":"2025-06-15 15:00:36:036","level":"info","message":"Redis Client Connected","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 15:00:37:037","level":"info","message":"Server started at port 5000","service":"identity-service","environment":"development","port":"5000"}
+{"timestamp":"2025-06-15 15:00:37:037","level":"info","message":"Connected to MongoDB successfully","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 15:00:37:037","level":"info","message":"Test data set in Redis","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 15:00:38:038","level":"info","message":"Test data cleaned up","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 15:00:38:038","level":"info","message":"Redis connection and data storage are working correctly","service":"identity-service","environment":"development"}
+{"timestamp":"2025-06-15 15:00:39:039","level":"info","message":"Email server is ready to send messages","service":"identity-service","environment":"development"}
